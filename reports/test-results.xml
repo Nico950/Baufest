@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="1.4590" tests="3" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-10-01T22:26:41" tests="0" file="cypress\e2e\test\Suites\API-Agregar, leer y modificar información de mascota\US04-TS01-TC01.cy.js" time="0.0000" failures="0">
+<testsuites name="Mocha Tests" time="1.6110" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-10-01T22:49:23" tests="0" file="cypress\e2e\test\Suites\API-Agregar, leer y modificar información de mascota\US04-TS01-TC01.cy.js" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="Agregar, leer y modificar información de mascota" timestamp="2022-10-01T22:26:41" tests="3" time="1.4350" failures="0">
-    <testcase name="Agregar información de mascota" time="1.0210" classname="Agregar, leer y modificar información de mascota Agregar información de mascota">
+  <testsuite name="Agregar, leer y modificar información de mascota" timestamp="2022-10-01T22:49:23" tests="3" time="1.5860" failures="0">
+    <testcase name="Agregar información de mascota" time="1.1570" classname="Agregar, leer y modificar información de mascota Agregar información de mascota">
     </testcase>
-    <testcase name="Leer información de mascota" time="0.2060" classname="Agregar, leer y modificar información de mascota Leer información de mascota">
+    <testcase name="Leer información de mascota" time="0.2230" classname="Agregar, leer y modificar información de mascota Leer información de mascota">
     </testcase>
-    <testcase name="Modificar información de mascota" time="0.2090" classname="Agregar, leer y modificar información de mascota Modificar información de mascota">
+    <testcase name="Modificar información de mascota" time="0.2040" classname="Agregar, leer y modificar información de mascota Modificar información de mascota">
     </testcase>
   </testsuite>
 </testsuites>

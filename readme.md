@@ -45,3 +45,9 @@ US02|TS01|TC02 Usuario se desloguea exitosamente
 4. La US04 se encuentra en "cypress\e2e\test\Suites\API-Agregar, leer y modificar información de mascota"
 
 ## US04 | petstore |  Crear, obtener y modificar mascota 
+
+US04|TS01|TC01 Agregar información de mascota
+US04|TS01|TC02 Leer información de mascota
+US04|TS01|TC03 Modificar información de mascota
+=======
+

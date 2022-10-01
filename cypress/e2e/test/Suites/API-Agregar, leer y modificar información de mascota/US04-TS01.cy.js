@@ -1,5 +1,5 @@
 describe('Agregar, leer y modificar información de mascota', () => {
-	it('Agregar información de mascota', () => {
+	it('US04|TS01|TC01 Agregar información de mascota', () => {
 		cy.request({
 			method: 'POST',
 			url: 'https://petstore.swagger.io/v2/pet',
@@ -25,7 +25,7 @@ describe('Agregar, leer y modificar información de mascota', () => {
 			expect(response.body.name).to.eql('coco')
 		})
 		})
-	it('Leer información de mascota', () => {
+	it('US04|TS01|TC02 Leer información de mascota', () => {
 			cy.request({
 				method: 'GET',
 				url: 'https://petstore.swagger.io/v2/pet/1633',
@@ -39,7 +39,7 @@ describe('Agregar, leer y modificar información de mascota', () => {
 			})
 		})
 
-	it('Modificar información de mascota', () => {
+	it('US04|TS01|TC03 Modificar información de mascota', () => {
 			cy.request({
 				method: 'PUT',
 				url: 'https://petstore.swagger.io/v2/pet',
