@@ -3,7 +3,7 @@ const { downloadFile } = require('cypress-downloadfile/lib/addPlugin')
 const { isFileExist, findFiles } = require('cy-verify-downloads');
 
 module.exports = defineConfig({
-	projectId: '',
+	projectId: '8enutb',
 	watchForFileChanges: false,
 	chromeWebSecurity: false,
 	// reporter: 'mochawesome',
