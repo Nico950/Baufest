@@ -4,7 +4,8 @@ Comandos: npx cypress open o npm test para abrir Cypress
 
 Para correr pruebas en la terminal: npx cypress run o npm run file 
 
-# Reporte de pruebas: */**/reports/cucumber-htmlreport.html/index.html 
+# Reporte de pruebas en:
+*/**/reports/cucumber-htmlreport.html/index.html 
 
 
 # WEB (demoblaze.com)
@@ -12,8 +13,11 @@ Para correr pruebas en la terminal: npx cypress run o npm run file
 Link: (https://www.demoblaze.com/index.html)
 
 1.Se crearon 3 US para probar las funcionalidades del SUT 'demoblaze'
+
 2.Se crearon 4 TC Happypath y todas pasaron exitosamente. 
+
 3.Se creo un command para el login en "cypress\support\commands.js" 
+
 4.Las US(01, 02, 03) se encuentran en "cypress\e2e\cucumber-test\Suites"
 
 # US01 | demoblaze | Dar de alta un usuario.
@@ -28,8 +32,11 @@ US02|TS01|TC02 Usuario se desloguea exitosamente
 # WEB SERVICES (petstore)
 
 1.Se creo una US para probar POST, GET y PUT
+
 2.Se crearon assertions para verificar
+
 3.Todas las pruebas pasaron exitosamente
+
 4.La US04 se encuentra en "cypress\e2e\test\Suites\API-Agregar, leer y modificar información de mascota"
 
 # US04 | petstore |  Crear, obtener y modificar mascota 
