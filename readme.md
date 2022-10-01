@@ -1,6 +1,7 @@
 [![TEST](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/f9y7eu/cypex&style=for-the-badge&logo=cypress)](https://dashboard.cypress.io/projects/8enutb/runs)
 
-Comandos: npx cypress open o npm test para abrir Cypress
+Comandos:
+Para abrir pruebas en Cypress: npx cypress open o npm test 
 
 Para correr pruebas en la terminal: npx cypress run o npm run file 
 
