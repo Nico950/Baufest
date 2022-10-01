@@ -2,9 +2,9 @@
 
 # Comandos:
 
-Para abrir pruebas en Cypress: 'npx cypress open' o 'npm test' 
+Para abrir pruebas en Cypress: `npx cypress open` o `npm test` 
 
-Para correr pruebas en la terminal: npx cypress run o npm run file 
+Para correr pruebas en la terminal: `npx cypress run` o `npm run file` 
 
 # Reporte de pruebas en:
 */**/reports/cucumber-htmlreport.html/index.html 
