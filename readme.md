@@ -29,6 +29,7 @@ Link: (https://www.demoblaze.com/index.html)
 US01|TS01|TC01 Usuario se registra en la web exitosamente
 ## US02 | demoblaze | Login y logout con el usuario dado de alta.
 US02|TS01|TC01 Usuario se loguea en la web exitosamente
+
 US02|TS01|TC02 Usuario se desloguea exitosamente
 ## US03 | demoblaze | Agregar producto al carrito de compras.
  US03|TS01|TC01 Agregar una laptop al carrito.
@@ -46,7 +47,9 @@ US02|TS01|TC02 Usuario se desloguea exitosamente
 
 ## US04 | petstore |  Crear, obtener y modificar mascota 
 US04|TS01|TC01 Agregar información de mascota
+
 US04|TS01|TC02 Leer información de mascota
+
 US04|TS01|TC03 Modificar información de mascota
 
 
