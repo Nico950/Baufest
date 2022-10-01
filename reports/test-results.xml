@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="14.3820" tests="2" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-09-20T02:14:51" tests="0" file="cypress\e2e\test\Suites\MyStore-GX-524\home.listaProdVisibles.cy.js" time="0.0000" failures="0">
+<testsuites name="Mocha Tests" time="4.6510" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-09-30T21:06:25" tests="0" file="cypress\e2e\cucumber-test\Suites\US01 Dar de alta un usuario\US01-TS01-TC01.feature" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="MyStore: Home-ListaProductosVisibles" timestamp="2022-09-20T02:14:51" tests="2" time="14.3660" failures="0">
-    <testcase name="TC1: Validar cantidad de elementos de la sección &quot;POPULAR&quot;" time="9.4780" classname="MyStore: Home-ListaProductosVisibles TC1: Validar cantidad de elementos de la sección &quot;POPULAR&quot;">
-    </testcase>
-    <testcase name="TC1: Validar cantidad de elementos de la sección &quot;BEST SELLERS&quot;" time="1.6200" classname="MyStore: Home-ListaProductosVisibles TC1: Validar cantidad de elementos de la sección &quot;BEST SELLERS&quot;">
+  <testsuite name="Dar de alta un usuario." timestamp="2022-09-30T21:06:26" tests="1" time="4.5930" failures="0">
+    <testcase name="US01|TS01|TC01 Usuario se registra en la website exitosamente (example #1)" time="4.6090" classname="Dar de alta un usuario. US01|TS01|TC01 Usuario se registra en la website exitosamente (example #1)">
     </testcase>
   </testsuite>
 </testsuites>

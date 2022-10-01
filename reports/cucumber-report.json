@@ -1,1 +1,91 @@
-[]
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "keyword": "Background",
+        "line": 2,
+        "name": "",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Usuario se encuentra en la página principal",
+            "result": {
+              "duration": 1772000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "background"
+      },
+      {
+        "description": "",
+        "id": "dar-de-alta-un-usuario.;us01|ts01|tc01-usuario-se-registra-en-la-website-exitosamente;;2",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "US01|TS01|TC01 Usuario se registra en la website exitosamente",
+        "steps": [
+          {
+            "keyword": "When ",
+            "line": 7,
+            "name": "el usuario hace click sobre el botón de Sign Up para crear cuenta",
+            "result": {
+              "duration": 147000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "And ",
+            "line": 8,
+            "name": "ingresa su 'prueba950' and 'prueba' en el formulario",
+            "result": {
+              "duration": 1486000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "And ",
+            "line": 9,
+            "name": "hace click sobre el botón Sign Up que se encuentra dentro del formulario",
+            "result": {
+              "duration": 1109000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 10,
+            "name": "aparece un mensaje amigable de creación de cuenta sign up Successfull",
+            "result": {
+              "duration": 15000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "dar-de-alta-un-usuario.",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "Dar de alta un usuario.",
+    "uri": "cypress\\e2e\\cucumber-test\\Suites\\US01 Dar de alta un usuario\\US01-TS01-TC01.feature"
+  }
+]

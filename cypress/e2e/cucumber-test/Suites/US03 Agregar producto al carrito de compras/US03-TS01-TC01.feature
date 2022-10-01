@@ -1,4 +1,4 @@
-Feature: Agregar producto al carrito de compras.
+Feature: US03 | demoblaze | Agregar producto al carrito de compras.
     Background:
 
         Given Usuario se encuentra en la página principal
