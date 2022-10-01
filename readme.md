@@ -9,6 +9,9 @@ Para correr pruebas en la terminal: `npx cypress run` o `npm run file`
 # Reporte de pruebas en:
 */**/reports/cucumber-htmlreport.html/index.html 
 
+![image](https://user-images.githubusercontent.com/113467174/193431513-4113e259-b162-4663-8215-591a62082fb3.png)
+
+
 
 # WEB (demoblaze.com)
 
