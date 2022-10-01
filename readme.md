@@ -6,6 +6,8 @@ Para abrir pruebas en Cypress: `npx cypress open` o `npm test`
 
 Para correr pruebas en la terminal: `npx cypress run` o `npm run file` 
 
+Para generar reporte visual: `node .*/cucumber-html-report.js`
+
 # Reporte de pruebas en:
 */**/reports/cucumber-htmlreport.html/index.html 
 
